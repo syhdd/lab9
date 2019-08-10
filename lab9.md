@@ -3,6 +3,8 @@
 # checkpoint2
 ![2.png](2.png)
 # checkpoint3
+The revised image is saved as the printing result image  
+the real size is (28,28)  
 ## original
 ![1.png](s1.png)
 ## processed
